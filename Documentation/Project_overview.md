@@ -16,7 +16,7 @@ Data Analyst - Arjun Mod
 
 Data Engineer - Weican Ye
 
-Data Visualization and GitHub Specialist - 
+Data Visualization and GitHub Specialist - Nikhilesh Krishnamurthy
 
 Execution Plan
 
